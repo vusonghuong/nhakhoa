@@ -1,0 +1,179 @@
+
+
+.text-logo {
+    margin: 0;
+    margin-top: 18px;
+    margin-left: 12px;
+}
+
+.nav a {
+    color: #333;
+    text-decoration: none;
+    font-family: 'Quicksand Bold', 'Quicksand Regular', 'Quicksand', sans-serif;
+    font-weight: 700;
+}
+
+.nav-item a, .button-tuvan {
+    font-size: 12px;
+    font-family: 'Quicksand Bold', 'Quicksand Regular', 'Quicksand', sans-serif;
+}
+
+.about a{
+    color: rgba(0, 156, 118, 1) !important;
+}
+
+.menu-item {
+    padding-top: 27px;
+    align-items: baseline;
+}
+
+.menu-2 {
+    margin-top: 10px;
+    margin-bottom: -16px;
+}
+
+.content-about-1 {
+    background-color: rgba(242, 242, 242, 1);   
+}
+
+/* .content-about-1::after {
+    background-image: url(https://files.axshare.com/gsc/KA8U5P/9b/e3/ef/9be3ef021d0546ec93f9056615d5a0d2/images/about/u3.svg?pageId=d921ce93-f7f6-4403-bfbe-44cbcb273c96);
+} */
+
+.about-1 {
+    padding-top: 210px;
+}
+
+.chu-ky img {
+    width: 41%;
+}
+
+.name-dr {
+    font-family: 'Playfair Display', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+}
+
+.desc-name-dr {
+    font-family: 'Quicksand Bold', 'Quicksand Regular', 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 13px;
+    color: #000000;
+}
+
+.img-bottom {
+    /* position: absolute; */
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.content-about-2 .border-content {
+    border-bottom: 2px solid rgba(0, 156, 118, 1);
+    border-color: rgba(0, 156, 118, 1);
+    width: 62%;
+    /* position: absolute; */
+    margin-left: 142px;
+}
+
+.content-about-2 .border-content-1 {
+    border-bottom: 2px solid rgba(0, 156, 118, 1);
+    border-color: rgba(0, 156, 118, 1);
+    width: 54%;
+    /* position: absolute; */
+    margin-left: 197px;
+}
+
+.content-5-about .border-content {
+    border-bottom: 2px solid rgba(0, 156, 118, 1);
+    border-color: rgba(0, 156, 118, 1);
+    width: 45%;
+    /* position: absolute; */
+    margin-left: 237px;    
+}
+
+.card img {
+    border-radius: 23px 23px 0px 0px;
+    object-fit: cover;
+    min-height: 280px;
+    object-position: right;
+}
+
+.card {
+    border-radius: 23px;
+}
+
+.card-text {
+    font-family: 'Quicksand Medium', 'Quicksand Regular', 'Quicksand', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.card-body {
+    height: 135px;
+}
+
+.dr-c, .dr-d {
+    object-position: left !important;
+}
+
+.content-3-about .border-content {
+    border-bottom: 2px solid rgba(0, 156, 118, 1);
+    border-color: rgba(0, 156, 118, 1);
+    width: 46%;
+    /* position: absolute; */
+    margin-left: 203px;
+}
+
+.images-dr img {
+    max-height: 420px;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+.content-item .border-content {
+    border-bottom: 1px solid rgba(0, 156, 118, 1);
+    border-color: rgba(0, 156, 118, 1);
+    width: 78%;
+    margin-left: 8px;
+    margin-bottom: 19px;
+}
+
+.content-item .desc {
+    font-family: 'Quicksand Medium', 'Quicksand Regular', 'Quicksand', sans-serif;
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 500;
+}
+
+.title-item {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 24px;
+    color: #000000;
+
+}
+
+.prize {
+    background-color: rgba(0, 104, 79, 0.996078431372549);
+}
+
+.text-prize {
+    padding-left: 90px;
+}
+
+.prize-item {
+    padding: 70px 142px;
+}
+
+.position-img {
+    margin-left: 105px;
+    margin-bottom: -47px;
+}
+
+.image-prize img {
+    width: 70%;
+}
+
+
